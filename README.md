@@ -1,2 +1,2 @@
-# Personal-Coding-For-CV
-Includes personal archives of coding projects I have done listed in my CV 
+# Magic 8-Ball Project
+Inlcudes a code that generates random responses upon a user giving it a question. 
